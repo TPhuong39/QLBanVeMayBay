@@ -1,0 +1,7 @@
+-----Đăng nhập với vai trò Nhân Viên:
+Tên đăng nhập: NV03
+Mật khẩu đăng nhập: NV03
+
+-----Đăng nhập với vai trò Quản Lý:
+Tên đăng nhập: NV03QL
+Mật khẩu đăng nhập: NV03QL
